@@ -1,3 +1,14 @@
+What I need to review in this tutorial:
+FROM: Constructor (props) and super(props)...
+this.state vs this.setState....this is still a bit confusing..
+render vs return.....display vs return a value
+
+...what do the three dots before state mean? The Spread Syntax?
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
